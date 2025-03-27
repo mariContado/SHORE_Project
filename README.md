@@ -1,2 +1,2 @@
 # SHORE_Project
-LMS for SHORE-SKwela
+SHORE-SKwela Quiz-Based Student Performance Monitoring for Admission Readiness
